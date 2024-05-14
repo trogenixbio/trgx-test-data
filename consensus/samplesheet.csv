@@ -1,0 +1,5 @@
+samplesheet,projectID,assay,comparison,group
+consensus/samplesheet.valid.PRJNA389321.csv,PRJNA389321,ATAC-seq,,group
+consensus/samplesheet.valid.PRJNA322456.csv,PRJNA322456,ATAC-seq,,group
+consensus/samplesheet.valid.PRJNA542095.csv,PRJNA542095,RNA-seq,,group
+consensus/samplesheet.valid.internal.csv,E171745_SB_ATACseq_200324,ATAC-seq,,group
