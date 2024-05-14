@@ -1,0 +1,30 @@
+OSMOTIC_STRESS_T0_PE_REP1:
+  Intergenic: 9.0
+  TTS: 24.0
+  exon: 9.0
+  promoter-TSS: 848.0
+OSMOTIC_STRESS_T0_PE_REP2:
+  Intergenic: 12.0
+  TTS: 29.0
+  exon: 9.0
+  promoter-TSS: 584.0
+OSMOTIC_STRESS_T100_SE_REP1:
+  Intergenic: 12.0
+  TTS: 30.0
+  exon: 6.0
+  promoter-TSS: 936.0
+OSMOTIC_STRESS_T100_SE_REP2:
+  Intergenic: 12.0
+  TTS: 24.0
+  exon: 6.0
+  promoter-TSS: 675.0
+OSMOTIC_STRESS_T150_SE_REP1:
+  Intergenic: 18.0
+  TTS: 47.0
+  exon: 9.0
+  promoter-TSS: 1475.0
+OSMOTIC_STRESS_T15_PE_REP1:
+  Intergenic: 16.0
+  TTS: 50.0
+  exon: 6.0
+  promoter-TSS: 1337.0

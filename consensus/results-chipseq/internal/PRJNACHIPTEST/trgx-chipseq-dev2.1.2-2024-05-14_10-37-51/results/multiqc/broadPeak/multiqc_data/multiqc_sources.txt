@@ -1,0 +1,147 @@
+Module	Section	Sample Name	Source
+phantompeakqualtools	all_sections	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_T0_REP2.spp.out
+phantompeakqualtools	all_sections	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_INPUT_REP1.spp.out
+phantompeakqualtools	all_sections	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_T0_REP1.spp.out
+phantompeakqualtools	all_sections	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_T15_REP1.spp.out
+phantompeakqualtools	all_sections	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_T15_REP2.spp.out
+phantompeakqualtools	all_sections	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/phantompeakqualtools/SPT5_INPUT_REP2.spp.out
+LIB: FastQC (raw)	all_sections	SPT5_T0_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T0_REP2_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_INPUT_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_INPUT_REP2_T1_1_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T0_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T0_REP1_T1_1_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T15_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T15_REP2_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T0_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T0_REP2_T1_1_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T15_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T15_REP2_T1_1_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T15_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T15_REP1_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_INPUT_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_INPUT_REP2_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T15_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T15_REP1_T1_1_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_INPUT_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_INPUT_REP1_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_T0_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_T0_REP1_T1_2_fastqc.zip
+LIB: FastQC (raw)	all_sections	SPT5_INPUT_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/fastqc/SPT5_INPUT_REP1_T1_1_fastqc.zip
+LIB: cutadapt (trimmed)	all_sections	SPT5_T15_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T15_REP1_T1_2.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T15_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T15_REP2_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T0_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T0_REP2_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_INPUT_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_INPUT_REP2_T1_2.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_INPUT_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_INPUT_REP2_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T0_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T0_REP1_T1_2.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_INPUT_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_INPUT_REP1_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T15_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T15_REP1_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T0_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T0_REP2_T1_2.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T15_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T15_REP2_T1_2.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_T0_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_T0_REP1_T1_1.fastq.gz_trimming_report.txt
+LIB: cutadapt (trimmed)	all_sections	SPT5_INPUT_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/SPT5_INPUT_REP1_T1_2.fastq.gz_trimming_report.txt
+LIB: FastQC (trimmed)	all_sections	SPT5_INPUT_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_INPUT_REP2_T1_1_val_1_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_INPUT_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_INPUT_REP1_T1_1_val_1_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T15_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T15_REP1_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T15_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T15_REP2_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_INPUT_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_INPUT_REP2_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T0_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T0_REP1_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T15_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T15_REP1_T1_1_val_1_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T0_REP1_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T0_REP1_T1_1_val_1_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T0_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T0_REP2_T1_1_val_1_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_INPUT_REP1_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_INPUT_REP1_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T0_REP2_T1_2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T0_REP2_T1_2_val_2_fastqc.zip
+LIB: FastQC (trimmed)	all_sections	SPT5_T15_REP2_T1_1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/trimgalore/fastqc/SPT5_T15_REP2_T1_1_val_1_fastqc.zip
+LIB: SAMTools	stats	SPT5_T0_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP2_T1.Lb.sorted.bam.stats
+LIB: SAMTools	stats	SPT5_T0_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP1_T1.Lb.sorted.bam.stats
+LIB: SAMTools	stats	SPT5_T15_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP2_T1.Lb.sorted.bam.stats
+LIB: SAMTools	stats	SPT5_INPUT_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP1_T1.Lb.sorted.bam.stats
+LIB: SAMTools	stats	SPT5_INPUT_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP2_T1.Lb.sorted.bam.stats
+LIB: SAMTools	stats	SPT5_T15_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP1_T1.Lb.sorted.bam.stats
+LIB: SAMTools	flagstat	SPT5_T0_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP2_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	flagstat	SPT5_INPUT_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP1_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	flagstat	SPT5_T0_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP1_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	flagstat	SPT5_INPUT_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP2_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	flagstat	SPT5_T15_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP1_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	flagstat	SPT5_T15_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP2_T1.Lb.sorted.bam.flagstat
+LIB: SAMTools	idxstats	SPT5_T0_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP2_T1.Lb.sorted.bam.idxstats
+LIB: SAMTools	idxstats	SPT5_INPUT_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP1_T1.Lb.sorted.bam.idxstats
+LIB: SAMTools	idxstats	SPT5_T15_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP2_T1.Lb.sorted.bam.idxstats
+LIB: SAMTools	idxstats	SPT5_INPUT_REP2_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_INPUT_REP2_T1.Lb.sorted.bam.idxstats
+LIB: SAMTools	idxstats	SPT5_T15_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T15_REP1_T1.Lb.sorted.bam.idxstats
+LIB: SAMTools	idxstats	SPT5_T0_REP1_T1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/library/SPT5_T0_REP1_T1.Lb.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP1.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP2.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP2.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP2.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP1.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	stats	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP1.mLb.mkD.sorted.bam.stats
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP2.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP2.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP1.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP2.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP1.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	flagstat	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP1.mLb.mkD.sorted.bam.flagstat
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP1.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP2.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_INPUT_REP2.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T0_REP1.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP1.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: SAMTools (unfiltered)	idxstats	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/SPT5_T15_REP2.mLb.mkD.sorted.bam.idxstats
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_T0_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_INPUT_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_INPUT_REP2.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_T0_REP2.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_T15_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: Picard (unfiltered)	DuplicationMetrics	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/unfiltered/picard_metrics/SPT5_T15_REP2.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+MERGED LIB: SAMTools (filtered)	stats	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP1.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	stats	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP2.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	stats	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP1.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	stats	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP2.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	stats	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP1.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	stats	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP2.mLb.clN.sorted.bam.stats
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP2.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP1.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP2.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP2.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP1.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	flagstat	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP1.mLb.clN.sorted.bam.flagstat
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP1.mLb.clN.sorted.bam.idxstats
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP1.mLb.clN.sorted.bam.idxstats
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP2.mLb.clN.sorted.bam.idxstats
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_INPUT_REP2.mLb.clN.sorted.bam.idxstats
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T0_REP1.mLb.clN.sorted.bam.idxstats
+MERGED LIB: SAMTools (filtered)	idxstats	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/SPT5_T15_REP2.mLb.clN.sorted.bam.idxstats
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP1.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP1.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP2.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP2.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP1.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	AlignmentSummaryMetrics	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP2.mLb.clN.sorted.CollectMultipleMetrics.alignment_summary_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_INPUT_REP1_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_INPUT_REP1_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T15_REP2_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T15_REP2_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T0_REP2_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T0_REP2_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_INPUT_REP2_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_INPUT_REP2_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP2.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T15_REP1_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T15_REP1_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T0_REP1_R1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	BaseDistributionByCycle	SPT5_T0_REP1_R2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP1.mLb.clN.sorted.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP2.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP1.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP1.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP2.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP1.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	InsertSizeMetrics	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP2.mLb.clN.sorted.CollectMultipleMetrics.insert_size_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP2.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP1.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T0_REP1.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_T15_REP2.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP1.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: Picard (filtered)	Histogram	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/alignment/mergedLibrary/filtered/picard_metrics/SPT5_INPUT_REP2.mLb.clN.sorted.CollectMultipleMetrics.quality_distribution_metrics
+MERGED LIB: deepTools	plotFingerprint	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T0_REP2.mLb.clN.plotFingerprint.raw.txt
+MERGED LIB: deepTools	plotFingerprint	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T15_REP2.mLb.clN.plotFingerprint.raw.txt
+MERGED LIB: deepTools	plotFingerprint	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T15_REP1.mLb.clN.plotFingerprint.raw.txt
+MERGED LIB: deepTools	plotFingerprint	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T0_REP1.mLb.clN.plotFingerprint.raw.txt
+MERGED LIB: deepTools	plotProfile	SPT5_INPUT_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_INPUT_REP1.mLb.clN.plotProfile.tab
+MERGED LIB: deepTools	plotProfile	SPT5_INPUT_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_INPUT_REP2.mLb.clN.plotProfile.tab
+MERGED LIB: deepTools	plotProfile	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T0_REP2.mLb.clN.plotProfile.tab
+MERGED LIB: deepTools	plotProfile	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T0_REP1.mLb.clN.plotProfile.tab
+MERGED LIB: deepTools	plotProfile	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T15_REP2.mLb.clN.plotProfile.tab
+MERGED LIB: deepTools	plotProfile	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/deeptools/SPT5_T15_REP1.mLb.clN.plotProfile.tab
+MERGED LIB: featureCounts	all_sections	SPT5_T0_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/macs2/featurecounts/SPT5.consensus_peaks.featureCounts.txt.summary
+MERGED LIB: featureCounts	all_sections	SPT5_T0_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/macs2/featurecounts/SPT5.consensus_peaks.featureCounts.txt.summary
+MERGED LIB: featureCounts	all_sections	SPT5_T15_REP1	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/macs2/featurecounts/SPT5.consensus_peaks.featureCounts.txt.summary
+MERGED LIB: featureCounts	all_sections	SPT5_T15_REP2	/workspace/chipseq/work/51/eff0f7937c64688479fe3d9fda6270/macs2/featurecounts/SPT5.consensus_peaks.featureCounts.txt.summary

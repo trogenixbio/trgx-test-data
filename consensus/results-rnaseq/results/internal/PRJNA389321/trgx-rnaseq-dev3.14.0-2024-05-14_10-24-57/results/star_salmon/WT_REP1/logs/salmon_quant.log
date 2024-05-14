@@ -1,0 +1,38 @@
+[2024-05-14 10:32:10.100] [jointLog] [info] setting maxHashResizeThreads to 2
+[2024-05-14 10:32:10.100] [jointLog] [info] Fragment incompatibility prior below threshold.  Incompatible fragments will be ignored.
+[2024-05-14 10:32:10.100] [jointLog] [info] numQuantThreads = 2
+[2024-05-14 10:32:10.665] [fileLog] [info] quantification processed 0 fragments so far
+
+[2024-05-14 10:32:10.665] [fileLog] [info] quantification processed 75789 fragments so far
+
+[2024-05-14 10:32:10.545] [jointLog] [info] replaced 0 non-ACGT nucleotides with random nucleotides
+[2024-05-14 10:32:11.667] [jointLog] [info] Thread saw mini-batch with a maximum of 2.40% zero probability fragments
+[2024-05-14 10:32:11.668] [jointLog] [info] Thread saw mini-batch with a maximum of 2.30% zero probability fragments
+[2024-05-14 10:32:11.668] [jointLog] [info] 
+
+
+Completed first pass through the alignment file.
+Total # of mapped reads : 75789
+# of uniquely mapped reads : 67644
+# ambiguously mapped reads : 8145
+
+
+
+[2024-05-14 10:32:11.671] [jointLog] [info] Computed 123 rich equivalence classes for further processing
+[2024-05-14 10:32:11.671] [jointLog] [info] Counted 74562 total reads in the equivalence classes 
+[2024-05-14 10:32:11.671] [jointLog] [warning] Only 75789 fragments were mapped, but the number of burn-in fragments was set to 5000000.
+The effective lengths have been computed using the observed mappings.
+
+[2024-05-14 10:32:11.673] [jointLog] [info] starting optimizer
+[2024-05-14 10:32:11.673] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
+[2024-05-14 10:32:11.673] [jointLog] [info] iteration = 0 | max rel diff. = 629.422
+[2024-05-14 10:32:11.675] [jointLog] [info] iteration = 100 | max rel diff. = 0
+[2024-05-14 10:32:11.675] [jointLog] [info] finished optimizer
+[2024-05-14 10:32:11.675] [jointLog] [info] writing output
+[2024-05-14 10:32:12.199] [jointLog] [info] Computing gene-level abundance estimates
+[2024-05-14 10:32:12.204] [jointLog] [warning] Feature has no GFF ID
+[2024-05-14 10:32:12.204] [jointLog] [info] There were 124 transcripts mapping to 124 genes
+[2024-05-14 10:32:12.204] [jointLog] [info] NOTE: We recommend using tximport (https://bioconductor.org/packages/release/bioc/html/tximport.html) for aggregating transcript-level salmon abundance estimates to the gene level.  It is more versatile, exposes more features, and allows considering multi-sample information during aggregation.
+[2024-05-14 10:32:12.205] [jointLog] [warning] couldn't find transcript named [Gfp_transgene_gene] in transcript <-> gene map; returning transcript as it's own gene
+[2024-05-14 10:32:12.205] [jointLog] [info] Aggregating expressions to gene level
+[2024-05-14 10:32:12.205] [jointLog] [info] done

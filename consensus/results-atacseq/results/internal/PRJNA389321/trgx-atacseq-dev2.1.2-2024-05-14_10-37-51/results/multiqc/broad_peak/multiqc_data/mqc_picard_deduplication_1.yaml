@@ -1,0 +1,36 @@
+OSMOTIC_STRESS_T0_PE_REP1:
+  Duplicate Pairs Nonoptical: 8910.0
+  Duplicate Unpaired: 233.0
+  Unique Pairs: 180938.0
+  Unique Unpaired: 256.0
+  Unmapped: 9175.0
+OSMOTIC_STRESS_T0_PE_REP2:
+  Duplicate Pairs Nonoptical: 10364.0
+  Duplicate Unpaired: 251.0
+  Unique Pairs: 174538.0
+  Unique Unpaired: 270.0
+  Unmapped: 13997.0
+OSMOTIC_STRESS_T100_SE_REP1:
+  Duplicate Pairs Nonoptical: 0.0
+  Duplicate Unpaired: 29151.0
+  Unique Pairs: 0.0
+  Unique Unpaired: 65639.0
+  Unmapped: 5187.0
+OSMOTIC_STRESS_T100_SE_REP2:
+  Duplicate Pairs Nonoptical: 0.0
+  Duplicate Unpaired: 34966.0
+  Unique Pairs: 0.0
+  Unique Unpaired: 57200.0
+  Unmapped: 7799.0
+OSMOTIC_STRESS_T150_SE_REP1:
+  Duplicate Pairs Nonoptical: 0.0
+  Duplicate Unpaired: 44356.0
+  Unique Pairs: 0.0
+  Unique Unpaired: 144128.0
+  Unmapped: 11483.0
+OSMOTIC_STRESS_T15_PE_REP1:
+  Duplicate Pairs Nonoptical: 12416.0
+  Duplicate Unpaired: 339.0
+  Unique Pairs: 363772.0
+  Unique Unpaired: 597.0
+  Unmapped: 21888.0

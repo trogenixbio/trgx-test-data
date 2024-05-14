@@ -1,0 +1,276 @@
+OSMOTIC_STRESS_T0_PE_REP1_T1_1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T0_PE_REP1_T1_1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 70.39800000000001
+OSMOTIC_STRESS_T0_PE_REP1_T1_2:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T0_PE_REP1_T1_2.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 70.138
+OSMOTIC_STRESS_T0_PE_REP2_T1_1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T0_PE_REP2_T1_1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: warn
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 62.861
+OSMOTIC_STRESS_T0_PE_REP2_T1_2:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T0_PE_REP2_T1_2.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: warn
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: warn
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 62.688
+OSMOTIC_STRESS_T100_SE_REP1_T1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T100_SE_REP1_T1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 70.39800000000001
+OSMOTIC_STRESS_T100_SE_REP2_T1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T100_SE_REP2_T1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: warn
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 62.861
+OSMOTIC_STRESS_T150_SE_REP1_T1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T150_SE_REP1_T1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 73.419
+OSMOTIC_STRESS_T150_SE_REP1_T2:
+  '%GC': 42.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T150_SE_REP1_T2.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 76.545
+OSMOTIC_STRESS_T15_PE_REP1_T1_1:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T15_PE_REP1_T1_1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: warn
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 73.419
+OSMOTIC_STRESS_T15_PE_REP1_T1_2:
+  '%GC': 43.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T15_PE_REP1_T1_2.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 73.356
+OSMOTIC_STRESS_T15_PE_REP1_T2_1:
+  '%GC': 42.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T15_PE_REP1_T2_1.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 76.545
+OSMOTIC_STRESS_T15_PE_REP1_T2_2:
+  '%GC': 42.0
+  Encoding: Sanger / Illumina 1.9
+  File type: Conventional base calls
+  Filename: OSMOTIC_STRESS_T15_PE_REP1_T2_2.gz
+  Sequence length: 76.0
+  Sequences flagged as poor quality: 0.0
+  Total Bases: 7.6 Mbp
+  Total Sequences: 100000.0
+  adapter_content: fail
+  avg_sequence_length: 76.0
+  basic_statistics: pass
+  median_sequence_length: 76
+  overrepresented_sequences: pass
+  per_base_n_content: pass
+  per_base_sequence_content: fail
+  per_base_sequence_quality: pass
+  per_sequence_gc_content: pass
+  per_sequence_quality_scores: pass
+  per_tile_sequence_quality: pass
+  sequence_duplication_levels: pass
+  sequence_length_distribution: pass
+  total_deduplicated_percentage: 76.48899999999999

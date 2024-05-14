@@ -1,0 +1,21 @@
+'LIB: Cutadapt (trimmed)':
+  'LIB: Cutadapt (trimmed)':
+  - '3.4'
+'LIB: FastQC (raw)':
+  'LIB: FastQC (raw)':
+  - 0.12.1
+'LIB: FastQC (trimmed)':
+  'LIB: FastQC (trimmed)':
+  - 0.11.9
+'LIB: SAMTools':
+  'LIB: SAMTools':
+  - '1.17'
+'MERGED LIB: SAMTools (filtered)':
+  'MERGED LIB: SAMTools (filtered)':
+  - '1.17'
+'MERGED LIB: SAMTools (unfiltered)':
+  'MERGED LIB: SAMTools (unfiltered)':
+  - '1.17'
+'MERGED REP: SAMTools':
+  'MERGED REP: SAMTools':
+  - '1.17'

@@ -1,0 +1,20 @@
+{
+        "completion": "SUCCESS",
+        "exit-status": "0",
+        "resume": "FALSE",
+        "session-id": "0cb9e64d-a50d-4338-8430-c03b3751c1ca",
+        "run-command": "nextflow run main.nf -profile docker,test --outdir results",
+        "pipeline-run-id": "trgx-rnaseq-dev3.14.0-2024-05-14_10-24-57",
+        "pipeline-timestamp": "2024-05-14_10-24-57",
+        "pipeline-runinfo-outdir": "results/internal/PRJNA389321/trgx-rnaseq-dev3.14.0-2024-05-14_10-24-57/run_info",
+        "user": "gitpod",
+        "date-started": "2024-05-14T10:25:02.268841761Z",
+        "date-completed": "2024-05-14T10:34:05.446045162Z",
+        "pipeline-script-file-path": "/workspace/rnaseq/main.nf",
+        "pipeline-script-hash-id": "746820de9bf04c0ec23e1e0295aaf91b",
+        "pipeline-git-repo-url": "https://github.com/trogenixbio/rnaseq",
+        "pipeline-git-branch-tag": "dev3.14.0",
+        "nextflow-version": "23.10.1",
+        "nextflow-build": "5891",
+        "nextflow-compile-timestamp": "12-01-2024 22:01 UTC"
+}

@@ -1,0 +1,20 @@
+{
+        "completion": "SUCCESS",
+        "exit-status": "0",
+        "resume": "RESUMED (SESSION ID b4e1fa4f-5118-4db8-96b7-14842f495fd1)",
+        "session-id": "b4e1fa4f-5118-4db8-96b7-14842f495fd1",
+        "run-command": "nextflow run main.nf -profile docker,test --outdir results -resume",
+        "pipeline-run-id": "trgx-atacseq-dev2.1.2-2024-05-14_10-37-51",
+        "pipeline-timestamp": "2024-05-14_10-37-51",
+        "pipeline-runinfo-outdir": "results/internal/PRJNA389321/trgx-atacseq-dev2.1.2-2024-05-14_10-37-51/run_info",
+        "user": "gitpod",
+        "date-started": "2024-05-14T10:37:56.098688793Z",
+        "date-completed": "2024-05-14T11:00:56.264893857Z",
+        "pipeline-script-file-path": "/workspace/atacseq/main.nf",
+        "pipeline-script-hash-id": "cd391b80c995976b921a6d3b566ff167",
+        "pipeline-git-repo-url": "https://github.com/trogenixbio/atacseq",
+        "pipeline-git-branch-tag": "dev2.1.2",
+        "nextflow-version": "23.10.1",
+        "nextflow-build": "5891",
+        "nextflow-compile-timestamp": "12-01-2024 22:01 UTC"
+}

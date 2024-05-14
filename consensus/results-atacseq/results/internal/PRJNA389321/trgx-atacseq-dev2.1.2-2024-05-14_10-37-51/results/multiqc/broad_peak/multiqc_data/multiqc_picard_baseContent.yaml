@@ -1,0 +1,99 @@
+OSMOTIC_STRESS_T0_PE_REP1_R1:
+  cycle_count: 76
+  mean_pct_a: 29.221333947368418
+  mean_pct_c: 20.869502381578954
+  mean_pct_g: 20.625240855263154
+  mean_pct_t: 29.283216881578948
+  sum_pct_a: 2220.82138
+  sum_pct_c: 1586.0821810000004
+  sum_pct_g: 1567.5183049999998
+  sum_pct_n: 0.05365
+  sum_pct_t: 2225.524483
+OSMOTIC_STRESS_T0_PE_REP1_R2:
+  cycle_count: 76
+  mean_pct_a: 29.147655999999994
+  mean_pct_c: 20.908348421052633
+  mean_pct_g: 20.63393894736842
+  mean_pct_t: 29.30899202631579
+  sum_pct_a: 2215.2218559999997
+  sum_pct_c: 1589.03448
+  sum_pct_g: 1568.1793599999999
+  sum_pct_n: 0.080915
+  sum_pct_t: 2227.483394
+OSMOTIC_STRESS_T0_PE_REP2_R1:
+  cycle_count: 76
+  mean_pct_a: 29.15608723684212
+  mean_pct_c: 20.85683063157894
+  mean_pct_g: 20.233567315789475
+  mean_pct_t: 29.752645407894743
+  sum_pct_a: 2215.862630000001
+  sum_pct_c: 1585.1191279999996
+  sum_pct_g: 1537.7511160000001
+  sum_pct_n: 0.06606899999999999
+  sum_pct_t: 2261.2010510000005
+OSMOTIC_STRESS_T0_PE_REP2_R2:
+  cycle_count: 76
+  mean_pct_a: 29.281231921052633
+  mean_pct_c: 20.820160144736843
+  mean_pct_g: 20.207496842105257
+  mean_pct_t: 29.689382460526314
+  sum_pct_a: 2225.373626
+  sum_pct_c: 1582.332171
+  sum_pct_g: 1535.7697599999995
+  sum_pct_n: 0.13137900000000002
+  sum_pct_t: 2256.393067
+OSMOTIC_STRESS_T100_SE_REP1:
+  cycle_count: 76
+  mean_pct_a: 29.376409907894736
+  mean_pct_c: 20.663223565789465
+  mean_pct_g: 20.69230380263157
+  mean_pct_t: 29.266858934210525
+  sum_pct_a: 2232.607153
+  sum_pct_c: 1570.4049909999994
+  sum_pct_g: 1572.6150889999994
+  sum_pct_n: 0.09149199999999999
+  sum_pct_t: 2224.281279
+OSMOTIC_STRESS_T100_SE_REP2:
+  cycle_count: 76
+  mean_pct_a: 29.360547578947365
+  mean_pct_c: 20.54117607894736
+  mean_pct_g: 20.481733539473687
+  mean_pct_t: 29.615156868421057
+  sum_pct_a: 2231.4016159999996
+  sum_pct_c: 1561.1293819999994
+  sum_pct_g: 1556.6117490000001
+  sum_pct_n: 0.10532600000000003
+  sum_pct_t: 2250.7519220000004
+OSMOTIC_STRESS_T150_SE_REP1:
+  cycle_count: 76
+  mean_pct_a: 29.32558546052632
+  mean_pct_c: 20.716175355263154
+  mean_pct_g: 20.6541192368421
+  mean_pct_t: 29.302871434210523
+  sum_pct_a: 2228.7444950000004
+  sum_pct_c: 1574.4293269999996
+  sum_pct_g: 1569.7130619999996
+  sum_pct_n: 0.094886
+  sum_pct_t: 2227.018229
+OSMOTIC_STRESS_T15_PE_REP1_R1:
+  cycle_count: 76
+  mean_pct_a: 29.182836276315793
+  mean_pct_c: 20.904925723684205
+  mean_pct_g: 20.605496749999997
+  mean_pct_t: 29.30597063157894
+  sum_pct_a: 2217.8955570000003
+  sum_pct_c: 1588.7743549999996
+  sum_pct_g: 1566.0177529999999
+  sum_pct_n: 0.058558
+  sum_pct_t: 2227.2537679999996
+OSMOTIC_STRESS_T15_PE_REP1_R2:
+  cycle_count: 76
+  mean_pct_a: 29.18725144736841
+  mean_pct_c: 20.93337092105263
+  mean_pct_g: 20.576313460526315
+  mean_pct_t: 29.301648197368415
+  sum_pct_a: 2218.2311099999993
+  sum_pct_c: 1590.9361900000001
+  sum_pct_g: 1563.7998229999998
+  sum_pct_n: 0.10760499999999998
+  sum_pct_t: 2226.9252629999996

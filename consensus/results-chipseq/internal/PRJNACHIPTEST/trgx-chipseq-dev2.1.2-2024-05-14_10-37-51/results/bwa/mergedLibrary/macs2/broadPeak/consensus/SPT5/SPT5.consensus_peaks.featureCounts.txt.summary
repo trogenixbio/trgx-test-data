@@ -1,0 +1,15 @@
+Status	SPT5_T0_REP1.mLb.clN.sorted.bam	SPT5_T0_REP2.mLb.clN.sorted.bam	SPT5_T15_REP1.mLb.clN.sorted.bam	SPT5_T15_REP2.mLb.clN.sorted.bam
+Assigned	26454	22489	28536	28721
+Unassigned_Unmapped	0	0	0	0
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	23892	19496	30909	31798
+Unassigned_Overlapping_Length	705	580	879	916
+Unassigned_Ambiguity	0	0	0	0

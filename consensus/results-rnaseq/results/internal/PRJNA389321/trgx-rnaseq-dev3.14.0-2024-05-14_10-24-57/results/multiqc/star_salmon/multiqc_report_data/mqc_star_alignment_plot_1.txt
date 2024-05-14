@@ -1,0 +1,6 @@
+Sample	Mapped to too many loci	Uniquely mapped	Unmapped: other	Mapped to multiple loci	Unmapped: too short
+RAP1_IAA_30M_REP1	0.0	44853.0	2505.0	916.0	1319.0
+RAP1_UNINDUCED_REP1	0.0	46603.0	98.0	1110.0	756.0
+RAP1_UNINDUCED_REP2	1.0	93598.0	204.0	2245.0	1606.0
+WT_REP1	0.0	88305.0	5420.0	1996.0	3504.0
+WT_REP2	0.0	44368.0	2655.0	987.0	1540.0

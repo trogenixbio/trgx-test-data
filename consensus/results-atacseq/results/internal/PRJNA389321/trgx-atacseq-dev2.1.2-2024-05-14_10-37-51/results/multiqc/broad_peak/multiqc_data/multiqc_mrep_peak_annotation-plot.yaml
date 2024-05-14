@@ -1,0 +1,10 @@
+OSMOTIC_STRESS_T0_PE:
+  Intergenic: 15.0
+  TTS: 51.0
+  exon: 17.0
+  promoter-TSS: 1051.0
+OSMOTIC_STRESS_T100_SE:
+  Intergenic: 18.0
+  TTS: 44.0
+  exon: 12.0
+  promoter-TSS: 1217.0

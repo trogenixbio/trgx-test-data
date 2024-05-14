@@ -1,0 +1,19 @@
+#id: 'mlib_deseq2_clustering_1'
+#section_name: 'MERGED LIB: consensus_peaks DESeq2 sample similarity'
+#description: "Matrix is generated from clustering with Euclidean distances between
+#	       <a href='https://bioconductor.org/packages/release/bioc/html/DESeq2.html' target='_blank'>DESeq2</a>
+#              rlog values for each sample
+#              in the <a href='https://github.com/nf-core/atacseq/blob/master/bin/deseq2_qc.r'><code>deseq2_qc.r</code></a> script."
+#plot_type: 'heatmap'
+#anchor: 'mlib_deseq2_clustering_1'
+#pconfig:
+#    title: 'DESeq2: Heatmap of the sample-to-sample distances'
+#    xlab: True
+#    reverseColors: True
+sample	OSMOTIC_STRESS_T100_SE_REP2	OSMOTIC_STRESS_T100_SE_REP1	OSMOTIC_STRESS_T150_SE_REP1	OSMOTIC_STRESS_T0_PE_REP2	OSMOTIC_STRESS_T0_PE_REP1	OSMOTIC_STRESS_T15_PE_REP1
+OSMOTIC_STRESS_T100_SE_REP2	0	17.1784093047201	20.5484962608527	6.07174564130941	17.0493915990063	20.5867760332004
+OSMOTIC_STRESS_T100_SE_REP1	17.1784093047201	0	17.3237258966953	17.4045879183562	4.89030115180692	17.4003674669957
+OSMOTIC_STRESS_T150_SE_REP1	20.5484962608527	17.3237258966953	0	20.7445981922107	17.8200366540069	3.43224693708457
+OSMOTIC_STRESS_T0_PE_REP2	6.07174564130941	17.4045879183562	20.7445981922107	0	16.8988021229759	20.4583310420748
+OSMOTIC_STRESS_T0_PE_REP1	17.0493915990063	4.89030115180692	17.8200366540069	16.8988021229759	0	17.5596374232765
+OSMOTIC_STRESS_T15_PE_REP1	20.5867760332004	17.4003674669957	3.43224693708457	20.4583310420748	17.5596374232765	0

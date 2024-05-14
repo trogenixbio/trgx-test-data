@@ -1,0 +1,11 @@
+../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP1.bigWig
+../../bwa/mergedLibrary/bigwig/SPT5_T15_REP1.bigWig
+../../bwa/mergedLibrary/bigwig/SPT5_T15_REP2.bigWig
+../../bwa/mergedLibrary/bigwig/SPT5_T0_REP1.bigWig
+../../bwa/mergedLibrary/bigwig/SPT5_T0_REP2.bigWig
+../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP2.bigWig
+../../bwa/mergedLibrary/macs2/broadPeak/consensus/SPT5/SPT5.consensus_peaks.bed
+../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP2_peaks.broadPeak
+../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP1_peaks.broadPeak
+../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP2_peaks.broadPeak
+../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP1_peaks.broadPeak

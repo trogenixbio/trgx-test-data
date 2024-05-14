@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="../../genome/genome.fa" hasGeneTrack="true" hasSequenceTrack="true" locus="All" version="8">
+	<Resources>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/consensus/consensus_peaks.mLb.clN.bed"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.bigWig"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_replicate/macs2/broad_peak/consensus/consensus_peaks.mRp.clN.bed"/>
+		<Resource path="../../bwa/merged_replicate/bigwig/OSMOTIC_STRESS_T0_PE.mRp.clN.bigWig"/>
+		<Resource path="../../bwa/merged_replicate/bigwig/OSMOTIC_STRESS_T100_SE.mRp.clN.bigWig"/>
+		<Resource path="../../bwa/merged_replicate/macs2/broad_peak/OSMOTIC_STRESS_T0_PE.mRp.clN_peaks.broadPeak"/>
+		<Resource path="../../bwa/merged_replicate/macs2/broad_peak/OSMOTIC_STRESS_T100_SE.mRp.clN_peaks.broadPeak"/>
+	</Resources>
+	<Panel height="1160" name="DataPanel" width="1897">
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,0" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/consensus/consensus_peaks.mLb.clN.bed" name="consensus_peaks.mLb.clN.bed" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.bigWig" name="OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.bigWig" name="OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.bigWig" name="OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.bigWig" name="OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.bigWig" name="OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_library/bigwig/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.bigWig" name="OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T0_PE_REP2.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T100_SE_REP2.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T150_SE_REP1.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T15_PE_REP1.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T0_PE_REP1.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_library/macs2/broad_peak/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T100_SE_REP1.mLb.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,0" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_replicate/macs2/broad_peak/consensus/consensus_peaks.mRp.clN.bed" name="consensus_peaks.mRp.clN.bed" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_replicate/bigwig/OSMOTIC_STRESS_T0_PE.mRp.clN.bigWig" name="OSMOTIC_STRESS_T0_PE.mRp.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/merged_replicate/bigwig/OSMOTIC_STRESS_T100_SE.mRp.clN.bigWig" name="OSMOTIC_STRESS_T100_SE.mRp.clN.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_replicate/macs2/broad_peak/OSMOTIC_STRESS_T0_PE.mRp.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T0_PE.mRp.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/merged_replicate/macs2/broad_peak/OSMOTIC_STRESS_T100_SE.mRp.clN_peaks.broadPeak" name="OSMOTIC_STRESS_T100_SE.mRp.clN_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+	</Panel>
+</Session>

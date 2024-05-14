@@ -1,0 +1,15 @@
+Status	OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.sorted.bam	OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam	OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam	OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.sorted.bam
+Assigned	21091	25134	21754	17307
+Unassigned_Unmapped	0	0	0	0
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	18798	23309	24552	20098
+Unassigned_Overlapping_Length	433	558	407	281
+Unassigned_Ambiguity	0	0	0	0

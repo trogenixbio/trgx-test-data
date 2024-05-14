@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="../../genome/genome.fa" hasGeneTrack="true" hasSequenceTrack="true" locus="All" version="8">
+	<Resources>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP1.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_T15_REP1.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_T15_REP2.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_T0_REP1.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_T0_REP2.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP2.bigWig"/>
+		<Resource path="../../bwa/mergedLibrary/macs2/broadPeak/consensus/SPT5/SPT5.consensus_peaks.bed"/>
+		<Resource path="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP2_peaks.broadPeak"/>
+		<Resource path="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP1_peaks.broadPeak"/>
+		<Resource path="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP2_peaks.broadPeak"/>
+		<Resource path="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP1_peaks.broadPeak"/>
+	</Resources>
+	<Panel height="1160" name="DataPanel" width="1897">
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP1.bigWig" name="SPT5_INPUT_REP1.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_T15_REP1.bigWig" name="SPT5_T15_REP1.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_T15_REP2.bigWig" name="SPT5_T15_REP2.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_T0_REP1.bigWig" name="SPT5_T0_REP1.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_T0_REP2.bigWig" name="SPT5_T0_REP2.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="true" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" height="30" id="../../bwa/mergedLibrary/bigwig/SPT5_INPUT_REP2.bigWig" name="SPT5_INPUT_REP2.bigWig" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+			<DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="10" minimum="0.0" type="LINEAR"/>
+		</Track>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/mergedLibrary/macs2/broadPeak/consensus/SPT5/SPT5.consensus_peaks.bed" name="SPT5.consensus_peaks.bed" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP2_peaks.broadPeak" name="SPT5_T0_REP2_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP1_peaks.broadPeak" name="SPT5_T15_REP1_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T15_REP2_peaks.broadPeak" name="SPT5_T15_REP2_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+		<Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="SQUISHED" featureVisibilityWindow="-1" fontSize="10" height="20" id="../../bwa/mergedLibrary/macs2/broadPeak/SPT5_T0_REP1_peaks.broadPeak" name="SPT5_T0_REP1_peaks.broadPeak" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+	</Panel>
+</Session>

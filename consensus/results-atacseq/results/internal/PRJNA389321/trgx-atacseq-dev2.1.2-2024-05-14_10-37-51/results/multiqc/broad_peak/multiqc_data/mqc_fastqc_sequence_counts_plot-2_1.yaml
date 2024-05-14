@@ -1,0 +1,36 @@
+OSMOTIC_STRESS_T0_PE_REP1_T1_1:
+  Duplicate Reads: 21651.0
+  Unique Reads: 78105.0
+OSMOTIC_STRESS_T0_PE_REP1_T1_2:
+  Duplicate Reads: 21642.0
+  Unique Reads: 78114.0
+OSMOTIC_STRESS_T0_PE_REP2_T1_1:
+  Duplicate Reads: 28609.0
+  Unique Reads: 71101.0
+OSMOTIC_STRESS_T0_PE_REP2_T1_2:
+  Duplicate Reads: 28474.0
+  Unique Reads: 71236.0
+OSMOTIC_STRESS_T100_SE_REP1_T1:
+  Duplicate Reads: 21692.0
+  Unique Reads: 78285.0
+OSMOTIC_STRESS_T100_SE_REP2_T1:
+  Duplicate Reads: 28666.0
+  Unique Reads: 71299.0
+OSMOTIC_STRESS_T150_SE_REP1_T1:
+  Duplicate Reads: 21643.0
+  Unique Reads: 78338.0
+OSMOTIC_STRESS_T150_SE_REP1_T2:
+  Duplicate Reads: 17797.0
+  Unique Reads: 82189.0
+OSMOTIC_STRESS_T15_PE_REP1_T1_1:
+  Duplicate Reads: 21602.0
+  Unique Reads: 78167.0
+OSMOTIC_STRESS_T15_PE_REP1_T1_2:
+  Duplicate Reads: 21587.0
+  Unique Reads: 78182.0
+OSMOTIC_STRESS_T15_PE_REP1_T2_1:
+  Duplicate Reads: 17762.0
+  Unique Reads: 81975.0
+OSMOTIC_STRESS_T15_PE_REP1_T2_2:
+  Duplicate Reads: 17714.0
+  Unique Reads: 82023.0

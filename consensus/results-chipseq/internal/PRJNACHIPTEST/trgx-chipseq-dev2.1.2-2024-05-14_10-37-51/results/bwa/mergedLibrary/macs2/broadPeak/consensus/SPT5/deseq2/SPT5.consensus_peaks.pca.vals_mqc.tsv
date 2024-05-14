@@ -1,0 +1,16 @@
+#id: 'deseq2_pca_1'
+#section_name: 'MERGED LIB: SPT5 DESeq2 PCA plot'
+#description: "PCA plot of the samples in the experiment.
+#              These values are calculated using <a href='https://bioconductor.org/packages/release/bioc/html/DESeq2.html'>DESeq2</a>
+#              in the <a href='https://github.com/nf-core/chipseq/blob/master/bin/deseq2_qc.r'><code>deseq2_qc.r</code></a> script."
+#plot_type: 'scatter'
+#anchor: 'deseq2_pca_1'
+#pconfig:
+#    title: 'DESeq2: Principal component plot'
+#    xlab: PC1
+#    ylab: PC2
+"sample"	"PC1: 61% variance"	"PC2: 22% variance"
+"SPT5_T0_REP1"	-5.30741035093721	8.7180807621268
+"SPT5_T0_REP2"	-12.1158186147524	-5.8723985329527
+"SPT5_T15_REP1"	8.6789951520436	-0.0739958414608433
+"SPT5_T15_REP2"	8.744233813646	-2.77168638771326

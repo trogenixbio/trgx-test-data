@@ -1,0 +1,194 @@
+'LIB: Cutadapt (trimmed)':
+  all_sections:
+    OSMOTIC_STRESS_T0_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T0_PE_REP1_T1_1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T0_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T0_PE_REP1_T1_2.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T0_PE_REP2_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T0_PE_REP2_T1_1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T0_PE_REP2_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T0_PE_REP2_T1_2.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T100_SE_REP1_T1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T100_SE_REP2_T1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T150_SE_REP1_T1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T150_SE_REP1_T2.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T15_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T15_PE_REP1_T1_1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T15_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T15_PE_REP1_T1_2.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T15_PE_REP1_T2_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T15_PE_REP1_T2_1.fastq.gz_trimming_report.txt
+    OSMOTIC_STRESS_T15_PE_REP1_T2_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/OSMOTIC_STRESS_T15_PE_REP1_T2_2.fastq.gz_trimming_report.txt
+'LIB: FastQC (raw)':
+  all_sections:
+    OSMOTIC_STRESS_T0_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T0_PE_REP1_T1_1_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T0_PE_REP1_T1_2_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP2_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T0_PE_REP2_T1_1_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP2_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T0_PE_REP2_T1_2_fastqc.zip
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T100_SE_REP1_T1_fastqc.zip
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T100_SE_REP2_T1_fastqc.zip
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T150_SE_REP1_T1_fastqc.zip
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T150_SE_REP1_T2_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T1_1_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T1_2_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T2_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T2_1_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T2_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T2_2_fastqc.zip
+'LIB: FastQC (trimmed)':
+  all_sections:
+    OSMOTIC_STRESS_T0_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T0_PE_REP1_T1_1_val_1_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T0_PE_REP1_T1_2_val_2_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP2_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T0_PE_REP2_T1_1_val_1_fastqc.zip
+    OSMOTIC_STRESS_T0_PE_REP2_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T0_PE_REP2_T1_2_val_2_fastqc.zip
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T100_SE_REP1_T1_trimmed_fastqc.zip
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T100_SE_REP2_T1_trimmed_fastqc.zip
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T150_SE_REP1_T1_trimmed_fastqc.zip
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T150_SE_REP1_T2_trimmed_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T1_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T1_1_val_1_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T1_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T1_2_val_2_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T2_1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T2_1_val_1_fastqc.zip
+    OSMOTIC_STRESS_T15_PE_REP1_T2_2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/trimgalore/fastqc/OSMOTIC_STRESS_T15_PE_REP1_T2_2_val_2_fastqc.zip
+'LIB: SAMTools':
+  flagstat:
+    OSMOTIC_STRESS_T0_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP1_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T0_PE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP2_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP1_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP2_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T2.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T15_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T1.Lb.sorted.bam.flagstat
+    OSMOTIC_STRESS_T15_PE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T2.Lb.sorted.bam.flagstat
+  idxstats:
+    OSMOTIC_STRESS_T0_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP1_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T0_PE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP2_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP1_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP2_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T2.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T15_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T1.Lb.sorted.bam.idxstats
+    OSMOTIC_STRESS_T15_PE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T2.Lb.sorted.bam.idxstats
+  stats:
+    OSMOTIC_STRESS_T0_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP1_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T0_PE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T0_PE_REP2_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP1_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP2_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T100_SE_REP2_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T150_SE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T150_SE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T150_SE_REP1_T2.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T15_PE_REP1_T1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T1.Lb.sorted.bam.stats
+    OSMOTIC_STRESS_T15_PE_REP1_T2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/library/OSMOTIC_STRESS_T15_PE_REP1_T2.Lb.sorted.bam.stats
+'MERGED LIB: Picard (filtered)':
+  AlignmentSummaryMetrics:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.CollectMultipleMetrics.alignment_summary_metrics
+  BaseDistributionByCycle:
+    OSMOTIC_STRESS_T0_PE_REP1_R1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T0_PE_REP1_R2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T0_PE_REP2_R1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T0_PE_REP2_R2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T15_PE_REP1_R1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+    OSMOTIC_STRESS_T15_PE_REP1_R2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.CollectMultipleMetrics.base_distribution_by_cycle_metrics
+  Histogram:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.CollectMultipleMetrics.quality_distribution_metrics
+  InsertSizeMetrics:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.CollectMultipleMetrics.insert_size_metrics
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.CollectMultipleMetrics.insert_size_metrics
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.CollectMultipleMetrics.insert_size_metrics
+'MERGED LIB: Picard (unfiltered)':
+  DuplicationMetrics:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T0_PE_REP2.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T100_SE_REP2.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/picard_metrics/OSMOTIC_STRESS_T15_PE_REP1.mLb.mkD.sorted.MarkDuplicates.metrics.txt
+'MERGED LIB: SAMTools (filtered)':
+  flagstat:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.sorted.bam.flagstat
+  idxstats:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.sorted.bam.idxstats
+  stats:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/filtered/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.sorted.bam.stats
+'MERGED LIB: SAMTools (unfiltered)':
+  flagstat:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP1.mLb.mkD.sorted.bam.flagstat
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP2.mLb.mkD.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP2.mLb.mkD.sorted.bam.flagstat
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.flagstat
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T15_PE_REP1.mLb.mkD.sorted.bam.flagstat
+  idxstats:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP1.mLb.mkD.sorted.bam.idxstats
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP2.mLb.mkD.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP2.mLb.mkD.sorted.bam.idxstats
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.idxstats
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T15_PE_REP1.mLb.mkD.sorted.bam.idxstats
+  stats:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP1.mLb.mkD.sorted.bam.stats
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T0_PE_REP2.mLb.mkD.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP1.mLb.mkD.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T100_SE_REP2.mLb.mkD.sorted.bam.stats
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T150_SE_REP1.mLb.mkD.sorted.bam.stats
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_library/unfiltered/OSMOTIC_STRESS_T15_PE_REP1.mLb.mkD.sorted.bam.stats
+'MERGED LIB: deepTools':
+  plotFingerprint:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.plotFingerprint.raw.txt
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.plotFingerprint.raw.txt
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.plotFingerprint.raw.txt
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.plotFingerprint.raw.txt
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.plotFingerprint.raw.txt
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.plotFingerprint.raw.txt
+  plotProfile:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T0_PE_REP1.mLb.clN.reference_point.plotProfile.tab
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T0_PE_REP2.mLb.clN.reference_point.plotProfile.tab
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T100_SE_REP1.mLb.clN.reference_point.plotProfile.tab
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T100_SE_REP2.mLb.clN.reference_point.plotProfile.tab
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T150_SE_REP1.mLb.clN.reference_point.plotProfile.tab
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/deeptools/OSMOTIC_STRESS_T15_PE_REP1.mLb.clN.reference_point.plotProfile.tab
+'MERGED LIB: featureCounts':
+  all_sections:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T150_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T15_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_library/featurecounts/consensus_peaks.mLb.clN.featureCounts.txt.summary
+'MERGED REP: Picard':
+  DuplicationMetrics:
+    OSMOTIC_STRESS_T0_PE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/picard_metrics/OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.MarkDuplicates.metrics.txt
+    OSMOTIC_STRESS_T100_SE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/picard_metrics/OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.MarkDuplicates.metrics.txt
+'MERGED REP: SAMTools':
+  flagstat:
+    OSMOTIC_STRESS_T0_PE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.flagstat
+    OSMOTIC_STRESS_T100_SE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.flagstat
+  idxstats:
+    OSMOTIC_STRESS_T0_PE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.idxstats
+    OSMOTIC_STRESS_T100_SE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.idxstats
+  stats:
+    OSMOTIC_STRESS_T0_PE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T0_PE.mRp.clN.sorted.bam.stats
+    OSMOTIC_STRESS_T100_SE: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/alignment/merged_replicate/OSMOTIC_STRESS_T100_SE.mRp.clN.sorted.bam.stats
+'MERGED REP: featureCounts':
+  all_sections:
+    OSMOTIC_STRESS_T0_PE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_replicate/featurecounts/consensus_peaks.mRp.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T0_PE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_replicate/featurecounts/consensus_peaks.mRp.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T100_SE_REP1: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_replicate/featurecounts/consensus_peaks.mRp.clN.featureCounts.txt.summary
+    OSMOTIC_STRESS_T100_SE_REP2: /workspace/atacseq/work/ee/e00e10c0530f9f364a51c83e200ed3/macs2/merged_replicate/featurecounts/consensus_peaks.mRp.clN.featureCounts.txt.summary

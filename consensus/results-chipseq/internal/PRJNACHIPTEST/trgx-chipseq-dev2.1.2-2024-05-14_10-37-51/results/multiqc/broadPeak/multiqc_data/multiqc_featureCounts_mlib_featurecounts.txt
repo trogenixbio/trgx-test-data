@@ -1,0 +1,5 @@
+Sample	Total	Assigned	Unassigned_Unmapped	Unassigned_Read_Type	Unassigned_Singleton	Unassigned_MappingQuality	Unassigned_Chimera	Unassigned_FragmentLength	Unassigned_Duplicate	Unassigned_MultiMapping	Unassigned_Secondary	Unassigned_NonSplit	Unassigned_NoFeatures	Unassigned_Overlapping_Length	Unassigned_Ambiguity	percent_assigned
+SPT5_T0_REP1	51051	26454	0	0	0	0	0	0	0	0	0	0	23892	705	0	51.81876946582828
+SPT5_T0_REP2	42565	22489	0	0	0	0	0	0	0	0	0	0	19496	580	0	52.834488429460826
+SPT5_T15_REP1	60324	28536	0	0	0	0	0	0	0	0	0	0	30909	879	0	47.30455540083549
+SPT5_T15_REP2	61435	28721	0	0	0	0	0	0	0	0	0	0	31798	916	0	46.75022381378693

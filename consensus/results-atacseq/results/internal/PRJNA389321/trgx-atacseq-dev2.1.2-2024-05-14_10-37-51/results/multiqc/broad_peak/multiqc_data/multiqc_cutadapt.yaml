@@ -1,0 +1,108 @@
+OSMOTIC_STRESS_T0_PE_REP1_T1_1:
+  bp_processed: 7600000
+  bp_written: 6811476
+  cutadapt_version: '3.4'
+  percent_trimmed: 10.375315789473683
+  quality_trimmed: 22070
+  r_processed: 100000
+  r_with_adapters: 52633
+  r_written: 100000
+OSMOTIC_STRESS_T0_PE_REP1_T1_2:
+  bp_processed: 7600000
+  bp_written: 6797740
+  cutadapt_version: '3.4'
+  percent_trimmed: 10.556052631578948
+  quality_trimmed: 40823
+  r_processed: 100000
+  r_with_adapters: 52660
+  r_written: 100000
+OSMOTIC_STRESS_T0_PE_REP2_T1_1:
+  bp_processed: 7600000
+  bp_written: 6909691
+  cutadapt_version: '3.4'
+  percent_trimmed: 9.083013157894737
+  quality_trimmed: 34664
+  r_processed: 100000
+  r_with_adapters: 49391
+  r_written: 100000
+OSMOTIC_STRESS_T0_PE_REP2_T1_2:
+  bp_processed: 7600000
+  bp_written: 6889729
+  cutadapt_version: '3.4'
+  percent_trimmed: 9.34567105263158
+  quality_trimmed: 57789
+  r_processed: 100000
+  r_with_adapters: 49448
+  r_written: 100000
+OSMOTIC_STRESS_T100_SE_REP1_T1:
+  bp_processed: 7600000
+  bp_written: 6811476
+  cutadapt_version: '3.4'
+  percent_trimmed: 10.375315789473683
+  quality_trimmed: 22070
+  r_processed: 100000
+  r_with_adapters: 52633
+  r_written: 100000
+OSMOTIC_STRESS_T100_SE_REP2_T1:
+  bp_processed: 7600000
+  bp_written: 6909691
+  cutadapt_version: '3.4'
+  percent_trimmed: 9.083013157894737
+  quality_trimmed: 34664
+  r_processed: 100000
+  r_with_adapters: 49391
+  r_written: 100000
+OSMOTIC_STRESS_T150_SE_REP1_T1:
+  bp_processed: 7600000
+  bp_written: 7185337
+  cutadapt_version: '3.4'
+  percent_trimmed: 5.456092105263158
+  quality_trimmed: 18408
+  r_processed: 100000
+  r_with_adapters: 42617
+  r_written: 100000
+OSMOTIC_STRESS_T150_SE_REP1_T2:
+  bp_processed: 7600000
+  bp_written: 6930553
+  cutadapt_version: '3.4'
+  percent_trimmed: 8.808513157894737
+  quality_trimmed: 19349
+  r_processed: 100000
+  r_with_adapters: 49734
+  r_written: 100000
+OSMOTIC_STRESS_T15_PE_REP1_T1_1:
+  bp_processed: 7600000
+  bp_written: 7185337
+  cutadapt_version: '3.4'
+  percent_trimmed: 5.456092105263158
+  quality_trimmed: 18408
+  r_processed: 100000
+  r_with_adapters: 42617
+  r_written: 100000
+OSMOTIC_STRESS_T15_PE_REP1_T1_2:
+  bp_processed: 7600000
+  bp_written: 7171134
+  cutadapt_version: '3.4'
+  percent_trimmed: 5.642973684210526
+  quality_trimmed: 34201
+  r_processed: 100000
+  r_with_adapters: 42703
+  r_written: 100000
+OSMOTIC_STRESS_T15_PE_REP1_T2_1:
+  bp_processed: 7600000
+  bp_written: 6930553
+  cutadapt_version: '3.4'
+  percent_trimmed: 8.808513157894737
+  quality_trimmed: 19349
+  r_processed: 100000
+  r_with_adapters: 49734
+  r_written: 100000
+OSMOTIC_STRESS_T15_PE_REP1_T2_2:
+  bp_processed: 7600000
+  bp_written: 6913468
+  cutadapt_version: '3.4'
+  percent_trimmed: 9.033315789473683
+  quality_trimmed: 43321
+  r_processed: 100000
+  r_with_adapters: 49019
+  r_written: 100000

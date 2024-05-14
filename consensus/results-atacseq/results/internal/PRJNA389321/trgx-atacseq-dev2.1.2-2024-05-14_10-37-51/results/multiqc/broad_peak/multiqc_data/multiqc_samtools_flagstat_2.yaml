@@ -1,0 +1,204 @@
+OSMOTIC_STRESS_T0_PE_REP1:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 98002
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 98002
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 98002
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 97834
+  properly paired_passed_pct: 99.83
+  read1_failed: 0
+  read1_passed: 49001
+  read2_failed: 0
+  read2_passed: 49001
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: 0.0
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 98002
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 98002
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T0_PE_REP2:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 80644
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 80644
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 80644
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 80592
+  properly paired_passed_pct: 99.94
+  read1_failed: 0
+  read1_passed: 40322
+  read2_failed: 0
+  read2_passed: 40322
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: 0.0
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 80644
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 80644
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T100_SE_REP1:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 46713
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 46713
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 0
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 0
+  properly paired_passed_pct: .nan
+  read1_failed: 0
+  read1_passed: 0
+  read2_failed: 0
+  read2_passed: 0
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: .nan
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 46713
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 0
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T100_SE_REP2:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 37686
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 37686
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 0
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 0
+  properly paired_passed_pct: .nan
+  read1_failed: 0
+  read1_passed: 0
+  read2_failed: 0
+  read2_passed: 0
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: .nan
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 37686
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 0
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T150_SE_REP1:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 113952
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 113952
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 0
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 0
+  properly paired_passed_pct: .nan
+  read1_failed: 0
+  read1_passed: 0
+  read2_failed: 0
+  read2_passed: 0
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: .nan
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 113952
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 0
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T15_PE_REP1:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 237776
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 237776
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 237776
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 237534
+  properly paired_passed_pct: 99.9
+  read1_failed: 0
+  read1_passed: 118888
+  read2_failed: 0
+  read2_passed: 118888
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: 0.0
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 237776
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 237776
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0

@@ -1,0 +1,68 @@
+OSMOTIC_STRESS_T0_PE:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 178646
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 178646
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 178646
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 178426
+  properly paired_passed_pct: 99.88
+  read1_failed: 0
+  read1_passed: 89323
+  read2_failed: 0
+  read2_passed: 89323
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: 0.0
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 178646
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 178646
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
+OSMOTIC_STRESS_T100_SE:
+  duplicates_failed: 0
+  duplicates_passed: 0
+  flagstat_total: 84399
+  mapped_failed: 0
+  mapped_failed_pct: .nan
+  mapped_passed: 84399
+  mapped_passed_pct: 100.0
+  paired in sequencing_failed: 0
+  paired in sequencing_passed: 0
+  properly paired_failed: 0
+  properly paired_failed_pct: .nan
+  properly paired_passed: 0
+  properly paired_passed_pct: .nan
+  read1_failed: 0
+  read1_passed: 0
+  read2_failed: 0
+  read2_passed: 0
+  secondary_failed: 0
+  secondary_passed: 0
+  singletons_failed: 0
+  singletons_failed_pct: .nan
+  singletons_passed: 0
+  singletons_passed_pct: .nan
+  supplementary_failed: 0
+  supplementary_passed: 0
+  total_failed: 0
+  total_passed: 84399
+  with itself and mate mapped_failed: 0
+  with itself and mate mapped_passed: 0
+  with mate mapped to a different chr (mapQ >= 5)_failed: 0
+  with mate mapped to a different chr (mapQ >= 5)_passed: 0
+  with mate mapped to a different chr_failed: 0
+  with mate mapped to a different chr_passed: 0
